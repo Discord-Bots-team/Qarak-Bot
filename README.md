@@ -5,7 +5,7 @@
 A bot for a DnD Campaign Discord 
 
 ## Commands this bot will have:
-- Scheduling Commands
+- Scheduling Command
 
 
 ## Possible Future Commands:
